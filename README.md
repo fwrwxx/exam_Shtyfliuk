@@ -1,7 +1,8 @@
 # exam_Shtyfliuk
 
-###програмний код
+### програмний код
 1. main_module
+```
 module arithmetic_unit (
     input  [3:0] X2,
     input  [3:0] X1,
@@ -20,7 +21,9 @@ module arithmetic_unit (
     end
 
 endmodule
+```
 2. testbench
+```
 module tb_arithmetic_unit();
 
     reg [3:0] X2, X1, X0;
@@ -52,9 +55,10 @@ module tb_arithmetic_unit();
         $finish;
     end
 endmodule
+```
 
-###компіляція файлів:
+### компіляція файлів:
 ![image](https://github.com/user-attachments/assets/23b07910-eb9e-48c2-b44b-d9a8cd4e9482)
 
-###діаграма станів
+### діаграма станів
 ![image](https://github.com/user-attachments/assets/97260ef8-b2cb-4d68-92de-cfe29e664f4b)
