@@ -1,0 +1,15 @@
+D:/kpi/schemotech/exam_Shtyfliuk/main_module.v {1 {vlog -work work -nocovercells D:/kpi/schemotech/exam_Shtyfliuk/main_module.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module arithmetic_unit
+
+Top level modules:
+	arithmetic_unit
+
+} {} {}} D:/kpi/schemotech/exam_Shtyfliuk/testbench.v {1 {vlog -work work -nocovercells D:/kpi/schemotech/exam_Shtyfliuk/testbench.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module tb_arithmetic_unit
+
+Top level modules:
+	tb_arithmetic_unit
+
+} {} {}}

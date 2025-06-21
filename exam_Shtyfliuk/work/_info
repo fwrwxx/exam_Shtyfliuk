@@ -1,0 +1,37 @@
+m255
+K3
+13
+cModel Technology
+dD:\kpi\schemotech\modelsim_ase\examples
+varithmetic_unit
+!s100 `=g^2P0T;iXRz1IX<E0HD1
+I1WnNK2d8zSYnQlDScac]Z2
+VK<FD_6O=NQJ9NcNICi^=N2
+Z0 dD:\kpi\schemotech\exam_Shtyfliuk
+w1750491294
+8D:/kpi/schemotech/exam_Shtyfliuk/main_module.v
+FD:/kpi/schemotech/exam_Shtyfliuk/main_module.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+!s85 0
+31
+!s101 -O0
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+vtb_arithmetic_unit
+IgE3LNE]VUL_L_MSzM5T1c3
+VFmlmXzzfMH[f?z@cX^XA?2
+Z4 dD:\kpi\schemotech\exam_Shtyfliuk
+w1750491275
+8D:/kpi/schemotech/exam_Shtyfliuk/testbench.v
+FD:/kpi/schemotech/exam_Shtyfliuk/testbench.v
+L0 1
+R1
+r1
+31
+R3
+!s100 WcCcOR[2_gVnmJ4T53n<o1
+!s85 0
+!s101 -O0
+R2
